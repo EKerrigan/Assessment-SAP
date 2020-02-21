@@ -535,7 +535,7 @@ function getConclusion(data){
     document.getElementById("total-cloud-score").innerHTML=TotalScore;
 }
 function swapBackgrounds(el){
- el.css('background-image','url(/assets/strip_7.png)');
+ el.css('background-image','url(/assetsPDF/strip_7.png)');
      el.css('background-size','792px 16px');
 }
 
